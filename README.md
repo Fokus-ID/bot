@@ -99,5 +99,5 @@ conn.logger.level = 'debug'
 
 #### 2nd Most Active Contributor: [`Ftwrr`](https://github.com/Ftwrr)
 
-#### Recode And Testing Fitur :  [`Fokus Dot Id`] (https://github.com/Agusfamilia/bot)
+#### Recode And Testing Fitur :  [`Fokus Dot Id`](https://github.com/Agusfamilia13)
 
