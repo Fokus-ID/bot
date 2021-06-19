@@ -1,4 +1,4 @@
-# wabot-aq
+# bot
 
 Simple WhatsApp Bot
 
@@ -10,7 +10,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/Nurutomo/wabot-aq
+git clone https://github.com/Agusfamilia/bot
 cd wabot-aq
 npm install
 ```
@@ -25,7 +25,7 @@ npm install
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Nurutomo/wabot-aq
+git clone https://github.com/Agusfamilia/bot
 cd wabot-aq
 npm install
 ```
@@ -98,3 +98,6 @@ conn.logger.level = 'debug'
 #### Most Active Contributor : [`ariffb25`](https://github.com/ariffb25)
 
 #### 2nd Most Active Contributor: [`Ftwrr`](https://github.com/Ftwrr)
+
+#### Recode And Testing Fitur :  [`Fokus Dot Id`] (https://github.com/Agusfamilia/bot)
+
